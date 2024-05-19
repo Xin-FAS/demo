@@ -1,0 +1,107 @@
+Index: add1.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/add1.txt b/add1.txt
+new file mode 100644
+--- /dev/null	(date 1716085886494)
++++ b/add1.txt	(date 1716085886494)
+@@ -0,0 +1,1 @@
++这是第一次新增的文件
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1716086923995)
++++ b/.idea/modules.xml	(date 1716086923995)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/demo.iml" filepath="$PROJECT_DIR$/.idea/demo.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1716086923999)
++++ b/.idea/vcs.xml	(date 1716086923999)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/UniappTool.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/UniappTool.xml b/.idea/UniappTool.xml
+new file mode 100644
+--- /dev/null	(date 1716086924003)
++++ b/.idea/UniappTool.xml	(date 1716086924003)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="cn.fjdmy.uniapp.UniappProjectDataService">
++    <option name="generalBasePath" value="$PROJECT_DIR$" />
++    <option name="manifestPath" value="$PROJECT_DIR$/manifest.json" />
++    <option name="pagesPath" value="$PROJECT_DIR$/pages.json" />
++    <option name="scanNum" value="1" />
++    <option name="type" value="store" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/demo.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/demo.iml b/.idea/demo.iml
+new file mode 100644
+--- /dev/null	(date 1716086923962)
++++ b/.idea/demo.iml	(date 1716086923962)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="WEB_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
++      <excludeFolder url="file://$MODULE_DIR$/temp" />
++      <excludeFolder url="file://$MODULE_DIR$/tmp" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1716086924418)
++++ b/.idea/.gitignore	(date 1716086924418)
+@@ -0,0 +1,5 @@
++# 默认忽略的文件
++/shelf/
++/workspace.xml
++# 基于编辑器的 HTTP 客户端请求
++/httpRequests/

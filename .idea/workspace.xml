@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f52ff74-14f6-422d-bb7f-128eb99c6aa5" name="更改" comment="新增过滤">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/_2024_5_19_11_00____.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2024_5_19_上午11_00_取消提交了更改_[更改]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/add1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base1.txt" afterDir="false" />
+    <list default="true" id="1f52ff74-14f6-422d-bb7f-128eb99c6aa5" name="更改" comment="修改公共结构,修改公共文件">
+      <change beforePath="$PROJECT_DIR$/add1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/add1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base1.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,18 +41,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -103,8 +100,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="修改公共结构,修改公共文件" />
     <MESSAGE value="新增过滤" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增过滤" />
+    <MESSAGE value="修改公共结构,修改公共文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改公共结构,修改公共文件" />
   </component>
 </project>
